@@ -17,4 +17,4 @@ la commande pour build est
 " sudo docker build -t fastapi "
 et pour lancé le conteneur utilisé la commande suivant 
 
-sudo docker run -it -e GROQ_API_KEY=votre clé API -p 5000:5000 fastapi
+sudo docker run -d -e GROQ_API_KEY=votre clé API -p 5000:5000 fastapi
