@@ -1,3 +1,5 @@
+[![Publish Docker image](https://github.com/Gniamor/Eval-M2/actions/workflows/docker-deploy.yml/badge.svg)](https://github.com/Gniamor/Eval-M2/actions/workflows/docker-deploy.yml)
+
 # Eval-M2
 
 ## Groq API
@@ -24,3 +26,7 @@ et pour lancé le conteneur utilisé la commande suivant
 dans le docker-compose.yml il lance un le service en https attention il faut généré un certificat
 dont voice la capture d'ecran
 ![Screenshot from 2024-09-27 15-23-13](https://github.com/user-attachments/assets/8a0ddb3b-0da9-4686-900d-03c2512ef463)
+
+
+## Repository github worflw
+le processe d'automatisation de teste et d'envoie directement sur docker hub
