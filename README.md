@@ -30,3 +30,8 @@ dont voice la capture d'ecran
 
 ## Repository github worflw
 le processe d'automatisation de teste et d'envoie directement sur docker hub
+
+![image](https://github.com/user-attachments/assets/ca06e2d1-e840-46b8-a0a8-fcc96e84d0d6)
+
+
+![image](https://github.com/user-attachments/assets/072b4bc5-34f6-48dc-bc63-73f0d6471243)
