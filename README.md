@@ -2,6 +2,7 @@
 
 ## Groq API
 
-![Texte alternatif](./img/Screenshot from 2024-09-27 14-31-31.png)
+![image](https://github.com/user-attachments/assets/409d0947-ccd7-43bb-8086-7d8d452719d4)
+
 voici le capture que le serveur croq a bien fonctionné a démarré et est fonctionnel
 L'API a bien été pris en compte
