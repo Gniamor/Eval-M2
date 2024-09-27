@@ -14,7 +14,8 @@ voici le capture que le serveur croq a bien fonctionné a démarré et est fonct
 L'API a bien été pris en compte
 la commande pour build est 
 
-" sudo docker build -t fastapi "
+" sudo docker build -t fastapi"
 et pour lancé le conteneur utilisé la commande suivant 
 
-sudo docker run -d -e GROQ_API_KEY=votre clé API -p 5000:5000 fastapi
+"sudo docker run -d -e GROQ_API_KEY=votre clé API -p 5000:5000 fastapi"
+

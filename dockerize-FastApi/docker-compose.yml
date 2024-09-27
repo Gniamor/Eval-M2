@@ -1,0 +1,18 @@
+services:
+  fastapi:
+    build:
+      context: .
+    environment:
+      - GROQ_API_KEY=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 
+    expose:
+      - "5000"
+
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "443:443"
+    volumes:
+      - ./certs:/etc/nginx/certs  
+      - ./nginx.conf:/etc/nginx/nginx.conf 
+    depends_on:
+      - fastapi
