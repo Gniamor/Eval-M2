@@ -19,3 +19,5 @@ et pour lancé le conteneur utilisé la commande suivant
 
 "sudo docker run -d -e GROQ_API_KEY=votre clé API -p 5000:5000 fastapi"
 
+
+dans le docker-compose.yml il lance un le service en https attention il faut généré un certificat
